@@ -15,7 +15,7 @@ Language: Java
 Project Creators: 
 
 1. 2440011356 - Juanico Wijaya Kusuma
-2. 2440099782 - Alvian Faiz H
+2. 2440099782 - Alvian Faiz H.
 3. 2440106030 - Brian Steve
 
 Project GitHub Link: https://bit.ly/3Q4v3Ib
