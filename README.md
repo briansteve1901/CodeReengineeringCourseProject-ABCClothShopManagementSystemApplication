@@ -5,7 +5,7 @@ their store has into the application. Then, the ViewClothList Feature. With this
 see various clothes added to the application. In addition, there is the DeleteCloth Feature to delete clothes 
 added to the app. This project code consists of smell code and refactored code. The background of this project 
 was to help people to manage their cloth shop data. We had a little difficulty making the smell code. That’s why 
-we read documentations. Finally, it was an honor to know that we have successfully created this project and scored 
+we read documentation. Finally, it was an honor to know that we have successfully created this project and scored 
 a perfect one, 100 out of 100 for this project.  
 
 Code Editor: Eclipse
